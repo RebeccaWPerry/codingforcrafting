@@ -1,6 +1,6 @@
 # codingforcrafting
 
-Examples of Using Coding for Fiber Arts Projects:
+Examples of using coding for fiber arts projects:
 * Creating and modifying patterns
 * Finding and selecting patterns
 * Robotic handiwork (knitting machine, embroidery machine)
@@ -38,5 +38,6 @@ Examples of Using Coding for Fiber Arts Projects:
 * Hair today, Cloth tomorrow: Automating Character Fx on Peter
 Rabbit http://delivery.acm.org/10.1145/3220000/3214780/a11-green.pdf?ip=12.236.65.35&id=3214780&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E383ADA7593775D6F&__acm__=1556992288_4cebc5a06638651a933fe3aa3897183b
 * Simulating Woven fabrics with Weave: http://delivery.acm.org/10.1145/3220000/3214781/a12-smith.pdf?ip=12.236.65.35&id=3214781&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E383ADA7593775D6F&__acm__=1556992389_ec70bfd58dcf24a002e3af8a9751b6bd
+*  The Handiwork Behind "Olaf's Frozen Adventure" http://delivery.acm.org/10.1145/3220000/3214817/a26-staub.pdf?ip=12.236.65.35&id=3214817&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E383ADA7593775D6F&__acm__=1556992447_433ecb1a78af9eeaead50257d97d3588
 
 
