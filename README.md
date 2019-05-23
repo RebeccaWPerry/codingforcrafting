@@ -33,6 +33,7 @@ Examples of using coding for fiber arts projects:
 
 ## Modeling,Simulating, Visualizing and Rendering
 *  Dr. Elisabetta Matsumoto http://matsumoto.gatech.edu/, NY Times: https://www.nytimes.com/2019/05/17/science/math-physics-knitting-matsumoto.html
+* APS 2019 Session on "Fabrics, Knits, and Knots" https://meetings.aps.org/Meeting/MAR19/Session/K63.5
 * https://www.cs.cornell.edu/projects/stitchmeshes/
 * http://graphics.stanford.edu/projects/yarnsim/
 * https://s2018.siggraph.org/presentation/?id=papers_417&sess=sess136
